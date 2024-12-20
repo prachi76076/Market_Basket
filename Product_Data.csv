@@ -1,0 +1,32 @@
+﻿Transaction_id,Item,Item_Quantity,Purchase_Date,Payment_Mode
+T001,Bread,5,1/1/2024,Cash
+T002,Butter,4,2/2/2024,Credit Card 
+T003,Bread,7,1/3/2024,Cash
+T004,Butter,6,2/4/2024,Credit Card 
+T005,Milk,8,12/5/2024,Cash
+T006,Cold Drinks,5,12/6/2024,Credit Card 
+T007,Butter,4,12/7/2024,Cash
+T008,Milk,7,12/8/2024,Credit Card 
+T009,Cold Drinks,6,12/9/2024,Cash
+T010,Charger,4,12/10/2024,Credit Card 
+T011,Bread,5,12/11/2024,Cash
+T012,Butter,4,12/12/2024,Credit Card 
+T013,Bread,5,2/13/2024,Cash
+T014,Butter,2,12/14/2024,Credit Card 
+T015,Milk,2,5/15/2024,Cash
+T016,Cold Drinks,2,12/16/2024,Credit Card 
+T017,Butter,5,4/17/2024,Cash
+T018,Milk,9,12/18/2024,Credit Card 
+T019,Cold Drinks,8,12/19/2024,Cash
+T020,Charger,7,10/20/2024,Credit Card 
+T021,Bread,5,12/21/2024,Cash
+T022,Butter,6,11/22/2024,Credit Card 
+T023,Bread,4,11/23/2024,Cash
+T024,Butter,2,11/24/2024,Credit Card 
+T025,Milk,3,12/25/2024,Cash
+T026,Cold Drinks,6,2/26/2024,Credit Card 
+T027,Butter,8,8/27/2024,Cash
+T028,Milk,7,7/28/2024,Credit Card 
+T029,Cold Drinks,9,6/29/2024,Cash
+T030,Charger,9,5/30/2024,Credit Card 
+T031,Bread,4,1/31/2024,Cash
